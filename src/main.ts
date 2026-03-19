@@ -2,7 +2,10 @@ import './style.css'
 // import "./builder/builder"
 // import "./Factory Method/factory_method"
 // import "./Factory Method/factory_method-2"
-import "./Abstract Factory/abstract_factory"
+// import "./Abstract Factory/abstract_factory"
+// import "./Prototype/Prototype"
+import "./Immutability_with_copy/Immutability"
+
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
