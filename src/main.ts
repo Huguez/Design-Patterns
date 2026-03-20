@@ -4,8 +4,9 @@ import './style.css'
 // import "./Factory Method/factory_method-2"
 // import "./Abstract Factory/abstract_factory"
 // import "./Prototype/Prototype"
-import "./Immutability_with_copy/Immutability"
-
+// import "./Immutability_with_copy/Immutability"
+// import "./Singleton/Singleton"
+// import "./Singleton/Singleton-ALT"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
