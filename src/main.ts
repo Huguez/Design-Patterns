@@ -7,6 +7,7 @@ import './style.css'
 // import "./Immutability_with_copy/Immutability"
 // import "./Singleton/Singleton"
 // import "./Singleton/Singleton-ALT"
+import "./Factory Function/FactoryFunction"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
