@@ -1,13 +1,15 @@
 import './style.css'
-// import "./builder/builder"
-// import "./Factory Method/factory_method"
-// import "./Factory Method/factory_method-2"
-// import "./Abstract Factory/abstract_factory"
-// import "./Prototype/Prototype"
-// import "./Immutability_with_copy/Immutability"
-// import "./Singleton/Singleton"
-// import "./Singleton/Singleton-ALT"
-import "./Factory Function/FactoryFunction"
+// import "./Creational Patterns/builder/builder"
+// import "./Creational Patterns/Factory Method/factory_method"
+// import "./Creational Patterns/Factory Method/factory_method-2"
+// import "./Creational Patterns/Abstract Factory/abstract_factory"
+// import "./Creational Patterns/Prototype/Prototype"
+// import "./Creational Patterns/Immutability_with_copy/Immutability"
+// import "./Creational Patterns/Singleton/Singleton"
+// import "./Creational Patterns/Singleton/Singleton-ALT"
+// import "./Creational Patterns/Factory Function/FactoryFunction"
+import "./Structural Patterns/Adapter/Adapter"
+
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
