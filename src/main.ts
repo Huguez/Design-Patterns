@@ -8,7 +8,9 @@ import './style.css'
 // import "./Creational Patterns/Singleton/Singleton"
 // import "./Creational Patterns/Singleton/Singleton-ALT"
 // import "./Creational Patterns/Factory Function/FactoryFunction"
-import "./Structural Patterns/Adapter/Adapter"
+// import "./Structural Patterns/Adapter/Adapter"
+import "./Structural Patterns/Bridge/Bridge"
+
 
 
 const app = document.querySelector<HTMLDivElement>('#app')!
