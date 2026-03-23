@@ -10,8 +10,8 @@ import './style.css'
 // import "./Creational Patterns/Factory Function/FactoryFunction"
 // import "./Structural Patterns/Adapter/Adapter"
 // import "./Structural Patterns/Bridge/Bridge"
-import "./Structural Patterns/Composite/composite"
-import "./Structural Patterns/Composite/composite"
+// import "./Structural Patterns/Composite/composite"
+import "./Structural Patterns/Decorator/decorator"
 
 
 const app = document.querySelector<HTMLDivElement>('#app')!
