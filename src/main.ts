@@ -16,7 +16,8 @@ import './style.css'
 // import "./Structural Patterns/Flyweight/flyweight"
 // import "./Structural Patterns/Proxy/proxy"
 // import "./Behavioral Patterns/Chain of Responsibility/Chain of Responsibility"
-import "./Behavioral Patterns/Command/command"
+// import "./Behavioral Patterns/Command/command"
+import "./Behavioral Patterns/Iterator/iterator"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
