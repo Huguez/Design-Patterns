@@ -12,8 +12,8 @@ import './style.css'
 // import "./Structural Patterns/Bridge/Bridge"
 // import "./Structural Patterns/Composite/composite"
 // import "./Structural Patterns/Decorator/decorator"
-import "./Structural Patterns/Facade/facade"
-
+// import "./Structural Patterns/Facade/facade"
+import "./Structural Patterns/Flyweight/flyweight"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
