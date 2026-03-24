@@ -13,7 +13,8 @@ import './style.css'
 // import "./Structural Patterns/Composite/composite"
 // import "./Structural Patterns/Decorator/decorator"
 // import "./Structural Patterns/Facade/facade"
-import "./Structural Patterns/Flyweight/flyweight"
+// import "./Structural Patterns/Flyweight/flyweight"
+import "./Structural Patterns/Proxy/proxy"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
