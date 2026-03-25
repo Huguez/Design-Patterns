@@ -18,8 +18,8 @@ import './style.css'
 // import "./Behavioral Patterns/Chain of Responsibility/Chain of Responsibility"
 // import "./Behavioral Patterns/Command/command"
 // import "./Behavioral Patterns/Iterator/iterator"
-import "./Behavioral Patterns/Mediator/mediator"
-
+// import "./Behavioral Patterns/Mediator/mediator"
+import "./Behavioral Patterns/Memento/memento"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
