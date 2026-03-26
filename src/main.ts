@@ -20,8 +20,8 @@ import './style.css'
 // import "./Behavioral Patterns/Iterator/iterator"
 // import "./Behavioral Patterns/Mediator/mediator"
 // import "./Behavioral Patterns/Memento/memento"
-import "./Behavioral Patterns/Observer/observer"
-
+// import "./Behavioral Patterns/Observer/observer"
+import "./Behavioral Patterns/State/state"
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
