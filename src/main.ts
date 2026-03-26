@@ -19,7 +19,9 @@ import './style.css'
 // import "./Behavioral Patterns/Command/command"
 // import "./Behavioral Patterns/Iterator/iterator"
 // import "./Behavioral Patterns/Mediator/mediator"
-import "./Behavioral Patterns/Memento/memento"
+// import "./Behavioral Patterns/Memento/memento"
+import "./Behavioral Patterns/Observer/observer"
+
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
