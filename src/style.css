@@ -14,3 +14,13 @@ body{
   border-radius: 25px;
   min-width: 270px;
 }
+
+
+#app a {
+  text-decoration: none;
+  color: blue;
+}
+
+#app a:hover {
+  text-decoration: underline;
+}

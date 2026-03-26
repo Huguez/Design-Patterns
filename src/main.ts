@@ -25,8 +25,8 @@ import './style.css'
 // import "./Behavioral Patterns/Observer/observer"
 // import "./Behavioral Patterns/State/state"
 // import "./Behavioral Patterns/Strategy/strategy"
-import "./Behavioral Patterns/Template Method/template Method"
-
+// import "./Behavioral Patterns/Template Method/template Method"
+// import "./Behavioral Patterns/Visitor/visitor"
 
 
 
@@ -35,4 +35,7 @@ const app = document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = `
   <h1>Design Patterns</h1>
   <span>Check JavaScript Console</span>
+  <br>
+  <br>
+  <a  href="https://refactoring.guru/" target="_blank">Refactoring Guru</a>
 `
