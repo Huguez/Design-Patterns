@@ -1,4 +1,6 @@
+
 import './style.css'
+
 // import "./Creational Patterns/builder/builder"
 // import "./Creational Patterns/Factory Method/factory_method"
 // import "./Creational Patterns/Factory Method/factory_method-2"
@@ -22,8 +24,8 @@ import './style.css'
 // import "./Behavioral Patterns/Memento/memento"
 // import "./Behavioral Patterns/Observer/observer"
 // import "./Behavioral Patterns/State/state"
-import "./Behavioral Patterns/Strategy/strategy"
-
+// import "./Behavioral Patterns/Strategy/strategy"
+import "./Behavioral Patterns/Template Method/template Method"
 
 
 
